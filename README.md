@@ -12,3 +12,7 @@ The aim is to understand the basic concepts of training and evaluating a Deep Ne
   <li>Choosing optimizer for the model</li>
   <li>Train the model, define the number of <code>epoch</code> and <code>batch size</code> for each training/validation loader</li>
 </ul>
+
+![alt text](https://github.com/nhathuy25/ConcreteCrackClassification/imgs/loss_by_iteration.png)
+
+<img src="./imgs/loss_by_iteration">
