@@ -14,6 +14,6 @@ The aim is to understand the basic concepts of training and evaluating a Deep Ne
   <li>Evaluate the trained model and find the misclassfiied examples</li>
 </ul>
 
-![alt text](https://github.com/nhathuy25/ConcreteCrackClassification/imgs/loss_by_iteration.png)
+![alt text](https://github.com/nhathuy25/ConcreteCrackClassification/blob/main/imgs/loss_by_iteration.png)
 
-<img src="./imgs/loss_by_iteration">
+![alt text](https://github.com/nhathuy25/ConcreteCrackClassification/blob/main/imgs/misclassified_samples.png)
