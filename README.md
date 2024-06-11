@@ -16,4 +16,6 @@ The aim is to understand the basic concepts of training and evaluating a Deep Ne
 
 ![alt text](https://github.com/nhathuy25/ConcreteCrackClassification/blob/main/imgs/loss_by_iteration.png)
 
-![alt text](https://github.com/nhathuy25/ConcreteCrackClassification/blob/main/imgs/misclassified_samples.png)
+### Misclassified samples
+Example of some misclassified samples, the trained model has 99.86% accuracy on the validation loader, here are some examples of the misclassfied ones:
+![alt text](https://github.com/nhathuy25/ConcreteCrackClassification/blob/main/imgs/misclassifed_samples.png)
